@@ -1,123 +1,98 @@
 [
-    {
-      "id": 1,
-      "title": "1984",
-      "author": "George Orwell",
-      "year": 1949,
-      "genre": "Dystopian",
-      "pages": 328
-    },
-    {
-      "id": 2,
-      "title": "Küçük Prens",
-      "author": "Antoine de Saint-Exupéry",
-      "year": 1943,
-      "genre": "Children's literature",
-      "pages": 96
-    },
-    {
-      "id": 3,
-      "title": "Suç ve Ceza",
-      "author": "Fyodor Dostoyevsky",
-      "year": 1866,
-      "genre": "Philosophical fiction",
-      "pages": 671
-    },
-    {
-      "id": 4,
-      "title": "Beyaz Diş",
-      "author": "Jack London",
-      "year": 1906,
-      "genre": "action",
-      "pages": 105
-    },
-    {
-      "id": 5,
-      "title": "Hayvan Çiftliği",
-      "author": "George Orwell",
-      "year": 1945,
-      "genre": "Political satire",
-      "pages": 112
-    },
-    {
-      "id": 6,
-      "title": "Sefiller",
-      "author": "Victor Hugo",
-      "year": 1862,
-      "genre": "Historical fiction",
-      "pages": 1463
-    },
-    {
-      "id": 7,
-      "title": "Dönüşüm",
-      "author": "Franz Kafka",
-      "year": 1915,
-      "genre": "Absurdist fiction",
-      "pages": 72
-    },
-    {
-      "id": 8,
-      "title": "Uğultulu Tepeler",
-      "author": "Emily Brontë",
-      "year": 1847,
-      "genre": "Gothic fiction",
-      "pages": 416
-    },
-    {
-      "id": 9,
-      "title": "Sherlock Holmes’un Maceraları",
-      "author": "Arthur Conan Doyle",
-      "year": 1892,
-      "genre": "Detective fiction",
-      "pages": 307
-    },
-    {
-      "id": 10,
-      "title": "Don Kişot",
-      "author": "Miguel de Cervantes",
-      "year": 1605,
-      "genre": "Satirical novel",
-      "pages": 1072
-    },
-    {
-      "id": 11,
-      "title": "Gurur ve Önyargı",
-      "author": "Jane Austen",
-      "year": 1813,
-      "genre": "Romance",
-      "pages": 279
-    },
-    {
-      "id": 12,
-      "title": "Martı",
-      "author": "Richard Bach",
-      "year": 1970,
-      "genre": "Philosophical fiction",
-      "pages": 144
-    },
-    {
-      "id": 13,
-      "title": "Alice Harikalar Diyarında",
-      "author": "Lewis Carroll",
-      "year": 1865,
-      "genre": "Fantasy",
-      "pages": 192
-    },
-    {
-      "id": 14,
-      "title": "Yeraltından Notlar",
-      "author": "Fyodor Dostoyevsky",
-      "year": 1864,
-      "genre": "Philosophical fiction",
-      "pages": 136
-    },
-    {
-      "id": 15,
-      "title": "Monte Cristo Kontu",
-      "author": "Alexandre Dumas",
-      "year": 1844,
-      "genre": "Adventure",
-      "pages": 1276
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "pages": 328
+  },
+  {
+    "id": 2,
+    "title": "Küçük Prens",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "genre": "Children's literature",
+    "pages": 96
+  },
+  {
+    "id": 3,
+    "title": "Suç ve Ceza",
+    "author": "Fyodor Dostoyevsky",
+    "year": 1866,
+    "genre": "Philosophical fiction",
+    "pages": 671
+  },
+  {
+    "id": 4,
+    "title": "Beyaz Diş",
+    "author": "Jack London",
+    "year": 1906,
+    "genre": "action",
+    "pages": 105
+  },
+  {
+    "id": 5,
+    "title": "Hayvan Çiftliği",
+    "author": "George Orwell",
+    "year": 1945,
+    "genre": "Political satire",
+    "pages": 112
+  },
+  {
+    "id": 6,
+    "title": "Sefiller",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "genre": "Historical fiction",
+    "pages": 1463
+  },
+  {
+    "id": 7,
+    "title": "Dönüşüm",
+    "author": "Franz Kafka",
+    "year": 1915,
+    "genre": "Absurdist fiction",
+    "pages": 72
+  },
+  {
+    "id": 8,
+    "title": "Uğultulu Tepeler",
+    "author": "Emily Brontë",
+    "year": 1847,
+    "genre": "Gothic fiction",
+    "pages": 416
+  },
+  {
+    "id": 9,
+    "title": "Sherlock Holmes’un Maceraları",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "genre": "Detective fiction",
+    "pages": 307
+  },
+  {
+    "id": 10,
+    "title": "Don Kişot",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "genre": "Satirical novel",
+    "pages": 1072
+  },
+  {
+    "id": 11,
+    "title": "Gurur ve Önyargı",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "action",
+    "pages": 279
+  },
+  {
+    "id": 12,
+    "title": "Martı Levington",
+    "author": "Richard Bach",
+    "genre": "Philosophical fiction",
+    "year": 1970,
+    "pages": 144
+  }
+]
